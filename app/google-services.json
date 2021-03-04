@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "429015232796",
+    "project_id": "pushnotificationpoc-59f5d",
+    "storage_bucket": "pushnotificationpoc-59f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429015232796:android:08093764eae694601a0ad9",
+        "android_client_info": {
+          "package_name": "com.electraanalytics.travelpoints.pushnotificationpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429015232796-s18pa81o15h49soplg3raele9vhoc285.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6phFBuT7EY4vMjdMi7_Jk3GvCfKUWh-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429015232796-s18pa81o15h49soplg3raele9vhoc285.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429015232796:android:14b39bdb5152345d1a0ad9",
+        "android_client_info": {
+          "package_name": "com.example.myapfirebasetokengenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429015232796-s18pa81o15h49soplg3raele9vhoc285.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6phFBuT7EY4vMjdMi7_Jk3GvCfKUWh-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429015232796-s18pa81o15h49soplg3raele9vhoc285.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
